@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Zombie" size="1.000000 0.994624" />
+    <ImageTarget name="Wizard" size="1.000000 0.993285" />
+    <ImageTarget name="Vampire" size="1.000000 0.997899" />
+    <ImageTarget name="Spirit" size="1.000000 0.996838" />
+    <ImageTarget name="Rouge" size="1.000000 1.025214" />
+    <ImageTarget name="Paladin" size="1.000000 1.012042" />
+    <ImageTarget name="Golem" size="1.000000 1.004130" />
+    <ImageTarget name="Goblin" size="1.000000 1.038936" />
+    <ImageTarget name="Dragon" size="1.000000 1.005348" />
+    <ImageTarget name="Cleric" size="1.000000 1.002342" />
+    <ImageTarget name="Bard" size="1.000000 1.004525" />
+    <ImageTarget name="Barbarian" size="1.000000 0.978357" />
+  </Tracking>
+</QCARConfig>

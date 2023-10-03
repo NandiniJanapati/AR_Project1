@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Volume_ImgTarget" size="1.000000 1.000000" />
+    <ImageTarget name="Enemy1_ImgTarget" size="1.000000 1.007261" />
+    <ImageTarget name="Player1_ImgTarget" size="1.000000 1.000000" />
+    <ImageTarget name="Player2_Imgtarget" size="1.000000 0.989339" />
+    <ImageTarget name="Support_ImgTarget" size="1.000000 0.962454" />
+    <ImageTarget name="Attack_ImgTarget" size="1.000000 1.011543" />
+  </Tracking>
+</QCARConfig>
